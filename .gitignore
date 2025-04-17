@@ -1,0 +1,20 @@
+# Ignore object files and compiled binaries
+*.o
+*.out
+*.exe
+
+# Ignore all files in build/ directory
+build/
+
+# Ignore user/editor/system files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+
+# Ignore environment files
+.env
